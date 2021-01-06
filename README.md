@@ -5,3 +5,5 @@ Depois de passar um LONGO tempo fazendo nada, decidi me mexer e aprender algo qu
 
 Estou fazendo o curso da UDEMY de Javascript completo do Leonardo Moura Leitao
 LINK: https://www.udemy.com/share/1013eSBkUYdlpSQHo=/
+
+Aproveitando para aprender a mexer com o GITHUB
