@@ -7,5 +7,6 @@ const carrinho = [
 
 const json = e => JSON.parse(e)
 const apenasPreco = produto => produto.preco
+
 const resultado = carrinho.map(json).map(apenasPreco)
 console.log(resultado)
